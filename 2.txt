@@ -1,2 +1,3 @@
 I  am learning Git
-updated repository
+updated repositor
+modified y
